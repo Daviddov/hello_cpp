@@ -42,6 +42,8 @@ struct Cat{
 	 Cat c("nora34");
 	 Cat c("nora");
 	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
 	
 	 
 	 //test
