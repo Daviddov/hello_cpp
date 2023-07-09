@@ -8,6 +8,10 @@
  print_num(5.); // -> Which version will be called ? 
 
 
+ //moshe changes..
+
+
+
  //std::cout << inverse_num(0.1);
  std::cout << inverse_num(5.1);
  return 0;
