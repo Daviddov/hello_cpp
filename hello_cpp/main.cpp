@@ -40,6 +40,7 @@ struct Cat{
 	 Cat c("nora");
 	 Cat c("nora");
 	 Cat c("nora");
+	 Cat c("nora");
 	 
 
  //moshe changes..
