@@ -33,6 +33,13 @@ struct Cat{
  //std::cout << inverse_num(5.1);
 
 	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
+	 Cat c("nora");
 	 
 
  //moshe changes..
